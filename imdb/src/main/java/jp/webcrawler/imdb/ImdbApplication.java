@@ -7,7 +7,7 @@ import jp.webcrawler.services.director;
 
 public class ImdbApplication {
 
-	 //INICIANDO APLICAÇÃO CHAMANDO SITE QUE SERÁ EXTRAIDO OS DADOS
+	//INICIANDO APLICAÇÃO CHAMANDO SITE QUE SERÁ EXTRAIDO OS DADOS
 	public static void main(String[] args) {
 		
 		
