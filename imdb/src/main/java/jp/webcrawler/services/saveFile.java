@@ -11,7 +11,7 @@ public class saveFile {
 	//SALVA AS INFORMAÇÕES EM .TXT
 	public saveFile(List<events> dados){
 		
-		String caminho = "C:\\Users\\pauloosouzah\\eclipse-workspace\\imdb\\IMDB-MOVIES.txt";
+		String caminho = "C:\\Users\\pauloosouzah\\git\\IMDB_WEB_CRAWLER\\imdb\\IMDB-MOVIES.txt";
 	    FileWriter arq;
 	    
 		try {	
